@@ -1,6 +1,6 @@
 # AINX
 my-developer-quest
 README.iu
-main.ex
+main.iu
 utils.ex
 .gitignore
