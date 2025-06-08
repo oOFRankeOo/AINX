@@ -2,5 +2,5 @@
 my-developer-quest
 README.iu
 main.iu
-utils.ex
+utils.iu
 .gitignore
