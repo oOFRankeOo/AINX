@@ -1,6 +1,6 @@
 # AINX
 my-developer-quest
 README.md
-main.sd
+main.io
 utils.sd
 .gitignore
