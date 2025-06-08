@@ -13,9 +13,7 @@ my-developer-quest
 
   <META NAME=”Description” CONTENT=””>
   <style>
-
   html, body {7
-
   height: 100%;
 
   padding: 0;
