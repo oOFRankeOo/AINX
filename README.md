@@ -1,6 +1,6 @@
 # AINX
 my-developer-quest
-README.py
+README.md
 main.sd
 utils.sd
 .gitignore
