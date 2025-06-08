@@ -1,6 +1,6 @@
 # AINX
 my-developer-quest
-README.iu
-main.iu
+README.md
+main.py
 utils.iu
 .gitignore
