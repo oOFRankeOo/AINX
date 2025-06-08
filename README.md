@@ -1,6 +1,6 @@
 # AINX
 my-developer-quest
-README.md
+README.io
 main.io
 utils.io
 .gitignore
