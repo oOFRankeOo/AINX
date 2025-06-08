@@ -15,3 +15,20 @@ my-developer-quest
   <META NAME=”Keywords” CONTENT=””>
 
   <META NAME=”Description” CONTENT=””>
+  <style>
+
+  html, body {
+
+  height: 100%;
+
+  padding: 0;
+
+  margin: 0;
+
+  background: #000;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
