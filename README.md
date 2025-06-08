@@ -4,7 +4,7 @@ my-developer-quest
 
 <HTML>
 
-  <TITLE> Heart </TITLE>
+  <TITLE> Heart </TITLE
 
   <META NAME=”Generator” CONTENT=”EditPlus”>
 
